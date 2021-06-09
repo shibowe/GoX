@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import learn "GoX/Learn"
 
 func main() {
-	fmt.Println("hello,Go!")
+	learn.HelloWorld()
 }
